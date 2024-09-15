@@ -1,31 +1,31 @@
-<!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=theegr8dev.visitor-badge)](https://github.com/theegr8dev) -->
-<!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=theegr8dev.visitor-badge" /> -->
-[![](https://visitcount.itsvg.in/api?id=theegr8dev&icon=0&color=4)](https://visitcount.itsvg.in)
+<!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Dean-address.visitor-badge)](https://github.com/Dean-address) -->
+<!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=Dean-address.visitor-badge" /> -->
+[![](https://visitcount.itsvg.in/api?id=Dean-address&icon=0&color=4)](https://visitcount.itsvg.in)
 <h3 align="center">
 	Hello and welcome :smile:
 </h3>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theegr8dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theegr8dev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dean-address) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Dean-address)
 
 <hr>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=theegr8dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Dean-address&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
 </p>
 
 
 
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=theegr8dev&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=Dean-address&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theegr8dev&layout=compact&theme=gruvbox">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dean-address&layout=compact&theme=gruvbox">
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theegr8dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Dean-address&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # Technologies
 
